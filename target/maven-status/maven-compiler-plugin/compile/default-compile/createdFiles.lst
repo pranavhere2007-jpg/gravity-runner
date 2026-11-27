@@ -1,0 +1,13 @@
+com\gravityflip\core\InputHandler.class
+com\gravityflip\core\GameEngine$2.class
+com\gravityflip\world\CollisionSystem.class
+com\gravityflip\world\LevelManager.class
+com\gravityflip\core\GameEngine$1.class
+com\gravityflip\Main.class
+com\gravityflip\Launcher.class
+com\gravityflip\entities\Hazard.class
+com\gravityflip\entities\Platform.class
+com\gravityflip\core\GameEngine.class
+com\gravityflip\entities\Player.class
+com\gravityflip\render\GameRenderer.class
+com\gravityflip\core\GameState.class
